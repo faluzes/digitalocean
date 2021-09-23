@@ -10,3 +10,9 @@ Get $100 to try **DigitalOcean** And do all the below for free!
 
 I just heard about **DigitalOcean giving free $100 Credit**. But, when I go to digitalocean website I can’t find it?
 
+We currently offer a $100, 60-day Free Credit for new accounts that you can get by signing up here:
+
+LINK: If you know someone already using DigitalOcean(); , get their referral link, or use this one: 
+
+
+
