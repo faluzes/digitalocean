@@ -22,10 +22,11 @@ We currently offer a $100, 60-day Free Credit for new accounts that you can get 
 4. **What products can I use the credit on?** You can use it on any services provided by DigitalOcean, for example all Droplet plans, Spaces object storage, Block Storage, and Load Balancers. NOTE: We offer this Free Trial to help make building amazing things on DigitalOcean as easy and accessible as possible. Mining cryptocurrencies doesn’t fit that criteria and will result in removal of credits.
 
 
-**digitalocean free tier**
-**digitalocean free credit**
-**digitalocean free trial**
-**digitalocean free no credit card**
-**digitalocean free promo code**
 
 
+
+# digitalocean free tier #
+## digitalocean free credit ##
+### digitalocean free trial ###
+#### digitalocean free no credit card ####
+##### digitalocean free promo code #####
