@@ -15,8 +15,6 @@ We currently offer a $100, 60-day Free Credit for new accounts that you can get 
 
 ## Frequently asked Questions: ##
 
-<a href="https://www.digitalocean.com/?refcode=dc81c2a75edd&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
-
 1. **How do I get the credit?** If you are eligible, your free trial will start when you sign up for DigitalOcean. You will need a credit card or valid paypal account so that we can verify your identity, but you will not be charged or billed during your free trial.
 
 2. **Who is eligible?** New customers to DigitalOcean with a valid credit card or paypal account are eligible. You are eligible if you have not previously signed up for the free trial.
