@@ -25,8 +25,8 @@ We currently offer a $100, 60-day Free Credit for new accounts that you can get 
 
 
 
-# digitalocean free tier #
-## digitalocean free credit ##
-### digitalocean free trial ###
-#### digitalocean free no credit card ####
-##### digitalocean free promo code #####
+# Digitalocean Free Tier #
+## Digitalocean Free Credit ##
+### Digitalocean Free Trial ###
+#### Digitalocean Free No Credit Card ####
+##### Digitalocean Free Promo Code #####
